@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "Please cite the AraDetox paper when using this dataset."
+title: "AraDetox: A Multi-Dialect Arabic Detoxification Dataset"
+type: dataset
+conference: ArabicNLP 2026
+venue: EMNLP 2026
+authors:
+  - family-names: "El-Haj"
+    given-names: "Mo"
+year: 2026
+repository-code: "https://github.com/ArabicNLP-UK/AraDetox"
+abstract: "An Arabic text detoxification dataset with model-generated rewrites in Modern Standard, Gulf, Levantine and Egyptian Arabic."
