@@ -85,6 +85,8 @@ A dataset licence has not been assigned in this repository package. Before publi
 ## Citation
 
 Please cite the AraDetox paper when using this dataset. Update `CITATION.cff` with the final paper title, complete author list, venue, year and DOI or URL before publishing the repository.
+📄 Paper: AraDetox: A Multi-Dialect Arabic Detoxification Dataset
+📥 PDF: [arXiv:2608.22894](https://arxiv.org/pdf/2608.22894)
 
 ```bibtex
 @inproceedings{el-haj2026aradetox,
